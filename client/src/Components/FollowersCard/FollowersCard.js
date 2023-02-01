@@ -1,5 +1,7 @@
 import React from 'react'
+
 import '../FollowersCard/FollowersCard.css'
+
 import { Followers } from '../../Data/FollowersData'
 
 const FollowersCard = () => {
