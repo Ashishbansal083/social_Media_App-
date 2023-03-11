@@ -1,0 +1,28 @@
+.RightSide{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    /* background-color: var(--cardColor); */
+    /* border-radius: 1rem; */
+    align-items: center;
+    justify-content: auto;
+
+}
+.Navicons{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem;
+    margin-top: 1rem;    
+    width: 100%;
+}
+.Navicons>img{
+    width: 1.5rem;
+    height: 1.5rem;
+}
+.r-button{
+    height: 3rem;
+    width: 80%;
+    align-self: center;
+}
+
